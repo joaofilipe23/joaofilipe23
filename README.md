@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# 👨‍💻 João Filipe
+# 👨‍💻 João Filipe Revoredo Silva Arruda
 
 ### Estudante de Ciências da Computação | Desenvolvedor em formação
 
