@@ -65,12 +65,15 @@ Alguns projetos que fazem parte da minha trajetória como desenvolvedor:
 
 ### 🎮 Dungeon Runaway
 Projeto de jogo desenvolvido em HTML, com temática de exploração de masmorras, salas, inimigos e batalhas contra chefes.
+link para acesso: https://matheus-didini.itch.io/dungeon-runaway
 
 ### 🌆 Alo Recife
 Projeto voltado para Recife. 
+link para acesso: https://sites.google.com/cesar.school/projeto-1-g10/home?pli=1&authuser=1
 
 ### 🛡️ SentinelaLog
 Projeto desenvolvido como parte da minha jornada de aprendizado em tecnologia.
+link para acesso: https://github.com/joaofilipe23/Repositorio-do-Projeto-SentinelaLog
 
 > Em breve, mais informações, demonstrações e links dos projetos serão adicionados aqui.
 
