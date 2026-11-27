@@ -15,6 +15,7 @@
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-joaofilipe23-181717?style=for-the-badge&logo=github)](https://github.com/joaofilipe23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-filipe-arruda-925822452/)
 [![Gmail](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arrudajoao23@gmail.com)
 
 </div>
@@ -25,7 +26,7 @@
 
 Olá! Sou **João Filipe**, estudante de Ciências da Computação na **CESAR School**, apaixonado por tecnologia, programação e desenvolvimento de projetos.
 
-Atualmente, venho desenvolvendo minhas habilidades principalmente em Python, HTML, CSS e JavaScript, buscando evoluir constantemente como desenvolvedor.
+Atualmente, venho desenvolvendo minhas habilidades principalmente em Python, HTML, CSS, JavaScript e C++ buscando evoluir constantemente como desenvolvedor.
 
 Sou uma pessoa focada, produtiva e que valoriza o trabalho em equipe. Gosto de enfrentar desafios, aprender coisas novas e transformar ideias em soluções.
 
@@ -96,6 +97,8 @@ Estou aberto a conhecer pessoas, compartilhar conhecimentos, colaborar em projet
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaofilipe23)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-filipe-arruda-925822452/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arrudajoao23@gmail.com)
 
